@@ -47,7 +47,12 @@ body
 }
 #post
 {
-    background: url(https://lh3.googleusercontent.com/proxy/AQeYBO8YslxG8PNQpeFVe6CYhxqtbWgVQtnlh3lQn8kqPFjkAeQG05PXXngBHNCv-beGQmieXGssGNfmqmaP3iujawEqp6G8qbjLnZ-DNelnK691CtB4) no-repeat center top;
+    background-image: url(https://lh3.googleusercontent.com/proxy/AQeYBO8YslxG8PNQpeFVe6CYhxqtbWgVQtnlh3lQn8kqPFjkAeQG05PXXngBHNCv-beGQmieXGssGNfmqmaP3iujawEqp6G8qbjLnZ-DNelnK691CtB4);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #8EB8F1;
     padding: 1em;
 }
 
