@@ -47,13 +47,13 @@ body
 }
 #post
 {
-    background: white;
+    background-image:url(http://fips.unsa.edu.pe/wp-content/uploads/2018/05/IMG_5668-848x411.jpg);
     padding: 1em;
 }
 
 #footer
 {
-    background image: http://fips.unsa.edu.pe/wp-content/uploads/2018/05/IMG_5668-848x411.jpg;
+    background: #37488b;
     color: white;
     text-align: center;
     padding: 0.5em;
