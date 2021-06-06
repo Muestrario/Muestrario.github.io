@@ -54,7 +54,7 @@ body
     background-size: cover;
     background-color: #8EB8F1;
     padding: 1em;
-    opacity: 75%;
+    opacity: 0.5;
     font-family: "Comic Sans MS";
     color: white;
 }
