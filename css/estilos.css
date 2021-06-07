@@ -45,18 +45,21 @@ body
 {
     font-size: 20px;
 }
+
 #post
 {
-    background-image: url(https://www.unsa.edu.pe/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-22-at-3.18.20-PM.jpeg);
+    font-family: "Comic Sans MS";
+    color: white;
+}
+
+#post#background
+{
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-color: #8EB8F1;
     padding: 1em;
-    opacity: 0.5;
-    font-family: "Comic Sans MS";
-    color: white;
 }
 
 #footer
