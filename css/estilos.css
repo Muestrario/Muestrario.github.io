@@ -48,18 +48,15 @@ body
 
 #post
 {
-    font-family: "Comic Sans MS";
-    color: white;
-}
-
-#post#background
-{
+    background-image: url(https://lh3.googleusercontent.com/proxy/tZ7iIsBHYXqEi0UR2oxQw6Sb0aN2U515CzHin0A6RsOoMnfhIYt27xvUTa4yHd0BTnk7I42clFZjON2I0R72KyQe5E4MX-8juc4NOqQb9fT-bCycqQ);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-color: #8EB8F1;
     padding: 1em;
+    font-family: "Comic Sans MS";
+    color: white;
 }
 
 #footer
