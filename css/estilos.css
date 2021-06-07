@@ -62,5 +62,12 @@ body
     font-family: "Comic Sans MS";
 }
 
-list-style: none;
+#footer#next
+{
+    text-align: right;
+}
 
+#footer#back
+{
+    text-align: left;
+}
