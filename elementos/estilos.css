@@ -59,5 +59,12 @@ body
     padding: 0.5em;
 }
 
-list-style: none;
+#footer#next
+{
+    text-align: right;
+}
 
+#footer#back
+{
+    text-align: left;
+}

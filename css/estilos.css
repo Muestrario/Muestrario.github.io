@@ -61,13 +61,3 @@ body
     padding: 0.5em;
     font-family: "Comic Sans MS";
 }
-
-#footer#next
-{
-    text-align: right;
-}
-
-#footer#back
-{
-    text-align: left;
-}
