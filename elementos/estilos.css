@@ -49,6 +49,9 @@ body
 {
     background: white;
     padding: 1em;
+    font-family: "Comica Sans MS";
+    font-weight: bold;
+    text-align: center;
 }
 
 #footer
