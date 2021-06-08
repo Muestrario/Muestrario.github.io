@@ -49,8 +49,9 @@ body
 {
     background: white;
     padding: 1em;
-    font-family: "Comica Sans MS";
+    font-family: "Comic Sans MS";
     font-weight: bold;
+    font-size: 24px;
     text-align: center;
     color: black;
 }
